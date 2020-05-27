@@ -6,4 +6,4 @@ DP:
 
 Traversal a tree:
 
-144,145
+144,145,94
