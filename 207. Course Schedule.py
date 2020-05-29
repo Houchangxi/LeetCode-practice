@@ -35,3 +35,4 @@ class Solution:
         arr[cur] = 2
         return False
 # 此题核心为 graph和dfs 去图中查找 是否存在环 如果存在环 则课程无法完成
+# https://www.youtube.com/watch?v=M6SBePBMznU&t=832s
