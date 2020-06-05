@@ -8,3 +8,7 @@ DP:
 Traversal a tree:
 
 144,145,94
+
+binarySearch:
+
+528
