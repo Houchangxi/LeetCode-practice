@@ -12,6 +12,10 @@ Traversal a tree:
 
 144,145,94
 
-binarySearch:
+BinarySearch:
 
 528
+
+DFS+Tire
+
+212
