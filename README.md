@@ -10,7 +10,7 @@ DP:
 
 Traversal a tree:
 
-144,145,94
+144,145,94,107
 
 BinarySearch:
 
