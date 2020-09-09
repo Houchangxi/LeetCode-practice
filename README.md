@@ -21,6 +21,6 @@ DFS+Tire
 
 212
 
-UnionFind
+UnionFind (联系题 https://ojeveryday.github.io/AlgoWiki/#/UnionFind/06-practices)
 
 547
